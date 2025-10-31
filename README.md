@@ -14,22 +14,20 @@ This project builds an Agentic AI customer support system capable of understandi
 
 Designed to simulate next-gen enterprise AI contact centers like Amazon / Google / Meta.
 
-**Objective**
+**Objective** : Automate customer support workflows using multi-agent reasoning + retrieval-augmented generation to boost agent efficiency, response quality, and customer experience.
 
--Automate customer support workflows using multi-agent reasoning + retrieval-augmented generation to boost agent efficiency, response quality, and customer experience.
 
-💡 Key Features
+**Key Features**
 
-Multi-agent architecture (Intent → Retrieval → Reasoning → Action)
- Gemini 2.0 Flash for fast LLM reasoning
- RAG with FAISS 
- Policy-grounded answers (no hallucinations)
-✅ Mock real support tools:
-– Order status lookup
-– Refund processing
-– Return label generator
- Human-in-loop escalation via confidence gating
- Full audit log for safety & traceability
+    This is the first line with two spaces at the end.  
+    This is the second line.
+    Multi-agent architecture (Intent → Retrieval → Reasoning → Action)
+    Gemini 2.0 Flash for fast LLM reasoning
+    RAG with FAISS 
+    Policy-grounded answers
+    Human-in-loop escalation via confidence gating
+    Full audit log for safety & traceability
+    
 
 **Tech Stack**
 -LLM	Gemini    2.0 Flash
