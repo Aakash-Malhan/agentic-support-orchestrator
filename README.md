@@ -40,8 +40,8 @@ Designed to simulate next-gen enterprise AI contact centers like Amazon / Google
     Auto-resolution rate	    ~40% tickets automated
     Response time	            ~60% faster
     Accuracy improvement    	~30% increase in first-response correctness
-    Agent workload	          Reduced manual interactions significantly
-    CX uplift               	More consistent, policy-aligned responses
+    Agent workload	             Reduced manual interactions significantly
+    CX uplift               	 More consistent, policy-aligned responses
     
 
 Supports enterprise-grade CX automation workflows while ensuring guardrails & transparency.
