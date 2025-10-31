@@ -19,8 +19,6 @@ Designed to simulate next-gen enterprise AI contact centers like Amazon / Google
 
 **Key Features**
 
-    This is the first line with two spaces at the end.  
-    This is the second line.
     Multi-agent architecture (Intent → Retrieval → Reasoning → Action)
     Gemini 2.0 Flash for fast LLM reasoning
     RAG with FAISS 
@@ -30,16 +28,21 @@ Designed to simulate next-gen enterprise AI contact centers like Amazon / Google
     
 
 **Tech Stack**
--LLM	Gemini    2.0 Flash
--RAG	          FAISS + Sentence-Transformers (MiniLM)
--Agents	       Custom orchestrator (LangGraph-like logic)
--Embedding DB	 Local (Pinecone optional)
+
+    LLM          Gemini    2.0 Flash
+    RAG          FAISS + Sentence-Transformers
+    Agents       Custom orchestrator (LangGraph-like logic)
+    Embedding DB	 Local (Pinecone optional)
+
 
 **Business Impact**
--Auto-resolution rate	    ~40% tickets automated
--Response time	           ~60% faster
--Accuracy improvement    	~30% increase in first-response correctness
--Agent workload	          Reduced manual interactions significantly
--CX uplift               	More consistent, policy-aligned responses
+    This is the first line.  
+    This is the second line.
+    Auto-resolution rate	    ~40% tickets automated
+    Response time	            ~60% faster
+    Accuracy improvement    	~30% increase in first-response correctness
+    Agent workload	          Reduced manual interactions significantly
+    CX uplift               	More consistent, policy-aligned responses
+    
 
 Supports enterprise-grade CX automation workflows while ensuring guardrails & transparency.
