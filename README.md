@@ -12,10 +12,11 @@ Gemini 2.0 Flash + RAG (FAISS) | Multi-Agent Workflow | Real-time Actions
 
 This project builds an Agentic AI customer support system capable of understanding queries, retrieving policy-grounded context, reasoning over steps, and executing live support actions (refunds, returns, order status) with human-in-the-loop escalation.
 
-Designed to simulate next-gen enterprise AI contact centers like Amazon / Google / Meta CX AI—runs locally or on Hugging Face Spaces (free CPU).
+Designed to simulate next-gen enterprise AI contact centers like Amazon / Google / Meta.
 
 **Objective**
-Automate customer support workflows using multi-agent reasoning + retrieval-augmented generation to boost agent efficiency, response quality, and customer experience.
+
+-Automate customer support workflows using multi-agent reasoning + retrieval-augmented generation to boost agent efficiency, response quality, and customer experience.
 
 💡 Key Features
 
