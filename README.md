@@ -36,8 +36,7 @@ Designed to simulate next-gen enterprise AI contact centers like Amazon / Google
 
 
 **Business Impact**
-    This is the first line.  
-    This is the second line.
+    
     Auto-resolution rate	    ~40% tickets automated
     Response time	            ~60% faster
     Accuracy improvement    	~30% increase in first-response correctness
