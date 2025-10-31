@@ -14,8 +14,7 @@ This project builds an Agentic AI customer support system capable of understandi
 
 Designed to simulate next-gen enterprise AI contact centers like Amazon / Google / Meta CX AI—runs locally or on Hugging Face Spaces (free CPU).
 
-**Objective
-**
+**Objective**
 Automate customer support workflows using multi-agent reasoning + retrieval-augmented generation to boost agent efficiency, response quality, and customer experience.
 
 💡 Key Features
@@ -31,22 +30,17 @@ Multi-agent architecture (Intent → Retrieval → Reasoning → Action)
  Human-in-loop escalation via confidence gating
  Full audit log for safety & traceability
 
-Tech Stack
-Component	Technology
-LLM	Gemini 2.0 Flash
-RAG	FAISS + Sentence-Transformers (MiniLM)
-Agents	Custom orchestrator (LangGraph-like logic)
-Embedding DB	Local (Pinecone optional)
-UI	Gradio Chat Interface
-Deployment	Hugging Face Spaces (Free CPU)
-Language	Python
+**Tech Stack**
+-LLM	Gemini    2.0 Flash
+-RAG	          FAISS + Sentence-Transformers (MiniLM)
+-Agents	       Custom orchestrator (LangGraph-like logic)
+-Embedding DB	 Local (Pinecone optional)
 
 **Business Impact**
-Metric	Impact
-Auto-resolution rate	~40% tickets automated
-Response time	~60% faster
-Accuracy improvement	~30% increase in first-response correctness
-Agent workload	Reduced manual interactions significantly
-CX uplift	More consistent, policy-aligned responses
+-Auto-resolution rate	    ~40% tickets automated
+-Response time	           ~60% faster
+-Accuracy improvement    	~30% increase in first-response correctness
+-Agent workload	          Reduced manual interactions significantly
+-CX uplift               	More consistent, policy-aligned responses
 
 Supports enterprise-grade CX automation workflows while ensuring guardrails & transparency.
